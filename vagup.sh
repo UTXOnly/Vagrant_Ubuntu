@@ -5,3 +5,4 @@ if [ ! -f "./Vagrantfile" ]; then
 else
     vagrant up
     vagrant ssh
+fi
